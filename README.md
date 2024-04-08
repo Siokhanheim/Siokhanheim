@@ -8,4 +8,4 @@
 안녕하세요 AI개발자 꿈나무 김성환입니다. 개발일은 처음이라 앞으로 궁금한게 많고 실패를 거듭해서 성공으로 나아가는 같이 성장 하실분 연락주세요! 
 질문 받아 주실 선배님도 구합니다~
 
-<img src="https://i.pinimg.com/200x150/81/bc/a0/81bca025d15df5d8f8b5c5c9e0f73ab4.jpg" width=300px> 
+<img src="https://i.pinimg.com/200x150/81/bc/a0/81bca025d15df5d8f8b5c5c9e0f73ab4.jpg" width=300 > 
